@@ -63,7 +63,7 @@ npm run dev
 ## API Routes
 | Method | Endpoint | Description |
 |--------|---------|-------------|
-| GET | `/leads` | Get leads list with filters & pagination |
+| GET | `/` | Get leads list with filters & pagination |
 | POST | `/leads/{id}/update` | Post call update for a lead |
 | PUT | `/leads/{id}` | Edit lead details |
 
